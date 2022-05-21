@@ -1,0 +1,10 @@
+div {
+  border: 1px solid black;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
